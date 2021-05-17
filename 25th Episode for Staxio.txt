@@ -1,0 +1,558 @@
+	<!DOCTYPE html>
+	<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+		<title> Libsyn Directory</title>
+
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+		<link rel="stylesheet" href="/css/styles.css?v=4c656542656e6e657474" />
+		
+		<!--Custom Fonts-->
+		<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800|Open+Sans+Condensed:300,700|Roboto:500,700|Material+Icons" rel="stylesheet">
+
+		<noscript>
+			<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css">
+		</noscript>
+
+		<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+		<script defer src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/js/all.min.js"></script>
+
+
+		<!--Favicon-->
+		<link rel="icon" href="//libsyn.com/wp-content/uploads/2012/08/fav.png" type="image/png">
+
+					<link rel="alternate" type="application/json+oembed" href="//oembed.libsyn.com?item_id=14469752">
+			<link rel="alternate" type="text/xml+oembed" href="//oembed.libsyn.com?item_id=14469752&format=xml">
+		
+
+					<meta property="og:title" content="How to Build Your Business into A Machine Vs. A Job - Crypto Part 1"/>
+					<meta property="og:description" content="Freedom Factory Explains the Importance of Diversification With Cryptocurrency  Watch Part 2 Here:  Contact Freedom Factory Freedom Factory 5500 Greenwood Plaza Blvd., Ste 230 Greenwood Village, CO 80111 Phone: 844-MAX-VALUE (844-629-8258)    Freedom Factory Managing Partners Tyler Tysdal  Robert Hirsch Entrepreneur, Investor, Speaker, Artist   Recent News Tyler Tysdal Diversification in the Business , a seasoned investor and entrepreneur, has laid emphasis on the importance of diversification in the business world. He has shared that diversification does not just help to&nbsp;limit the risks involved in any business&nbsp;but it also allows a business to make a big profit in the long-term.&nbsp; and his partner, Robert Hirsch is providing great knowledge to entrepreneurs on making an effective investment through the platform, Freedom Factory. The seasoned investor has highlighted the importance of diversification in the success of any business. Read more here:  Knowing the Difference Between Business Brokers and Investment Bankers Brokers and investment bankers are two words commonly used in the business world. They are very much alike but function differently. Business brokers sell businesses to entrepreneurs, private equity firms, small private equity firms, venture capitals, and little roll-ups. These people focus on helping business owners get the maximum selling value of their business. On the other hand, investment bankers are people with a background in investment banking. They do not help small scale businesses. Their focus is on large deals, typically values a hundred million dollars. They are a part of financial institutions that focus on raising capital for big corporations and government entities. Read more here:  &nbsp; Additional Resources: Listen to more podcasts here:   Follow  on Twitter:  Watch this introduction to       Additional Resources: Cryptocurrency Videos:     "/>
+					<meta property="og:image" content="http://assets.libsyn.com/content/73218557?height=250&width=250"/>
+					<meta property="og:image:height" content="250"/>
+					<meta property="og:image:width" content="250"/>
+					<meta property="og:url" content="https://directory.libsyn.com/episode/index/show/tylertysdal/id/14469752"/>
+					<meta property="og:type" content="website"/>
+		
+					<meta name="twitter:card" content="player" />
+					<meta name="twitter:title" content="How to Build Your Business into A Machine Vs. A Job - Crypto Part 1" />
+					<meta name="twitter:description" content="Freedom Factory Explains the Importance of Diversification With Cryptocurrency  Watch Part 2 Here:  Contact Freedom Factory Freedom Factory 5500 Greenwood Plaza Blvd., Ste 230 Greenwood Village, CO 80111 Phone: 844-MAX-VALUE (844-629-8258)    Freedom Factory Managing Partners Tyler Tysdal  Robert Hirsch Entrepreneur, Investor, Speaker, Artist   Recent News Tyler Tysdal Diversification in the Business , a seasoned investor and entrepreneur, has laid emphasis on the importance of diversification in the business world. He has shared that diversification does not just help to&amp;nbsp;limit the risks involved in any business&amp;nbsp;but it also allows a business to make a big profit in the long-term.&amp;nbsp; and his partner, Robert Hirsch is providing great knowledge to entrepreneurs on making an effective investment through the platform, Freedom Factory. The seasoned investor has highlighted the importance of diversification in the success of any business. Read more here:  Knowing the Difference Between Business Brokers and Investment Bankers Brokers and investment bankers are two words commonly used in the business world. They are very much alike but function differently. Business brokers sell businesses to entrepreneurs, private equity firms, small private equity firms, venture capitals, and little roll-ups. These people focus on helping business owners get the maximum selling value of their business. On the other hand, investment bankers are people with a background in investment banking. They do not help small scale businesses. Their focus is on large deals, typically values a hundred million dollars. They are a part of financial institutions that focus on raising capital for big corporations and government entities. Read more here:  &amp;nbsp; Additional Resources: Listen to more podcasts here:   Follow  on Twitter:  Watch this introduction to       Additional Resources: Cryptocurrency Videos:     " />
+					<meta name="twitter:image" content="http://assets.libsyn.com/content/73218557?height=480&width=640&overlay=true" />
+					<meta name="twitter:player" content="https://html5-player.libsyn.com/embed/episode/id/14469752/theme/standard/height/480/width/640/menu/no" />
+					<meta name="twitter:player:width" content="640" />
+					<meta name="twitter:player:height" content="480" />
+					<meta name="twitter:player:stream" content="https://traffic.libsyn.com/preview/secure/tylertysdal/How_to_Build_My_Business_Into_a_Machine_vs._a_Job_-_Crypto_Part_1.mp3" />
+					<meta name="twitter:player:stream:content_type" content="audio/mpeg" />
+		
+	</head>
+
+	<body id="top">
+		<!--NAV Start-->
+		<nav>
+	<div class="nav-wrapper container">
+		<a href="/" class="brand-logo hide-on-small-and-down"><img src="//static.libsyn.com/p/assets/platform/directory/libsyn-logo-dark.png" alt="Libsyn Logo" class="responsive-img"></a>
+		<a href="/"><img src="//static.libsyn.com/p/assets/platform/directory/libsyn-rss-logo.png" class="nav-icon hide-on-med-and-up" alt="libsyn logo only"></a>
+		<ul class="right">
+			<li><a href="#" data-target="catNav" class="sidenav-trigger" id="navCatLink"><i class="large material-icons">view_module</i> <span> Topics</span></a></li>
+		</ul>
+		<ul class="right hide-on-large-only">
+			<li><a href="#searchModal" class="modal-trigger" id="navSearch"><i class="large material-icons">search</i></a></li>
+		</ul>
+		<form class="right hide-on-med-and-down" action="/shows/search/">
+			<div class="input-field nav-search">
+				<input name="q" type="search" placeholder="Search" required>
+				<label class="label-icon" for="search"><i class="material-icons">search</i></label>
+				<i class="material-icons">close</i>
+			</div>
+		</form>
+	</div>
+	<div class="progress-container pushpin">
+		<a href="#top" class="page-scroll"><i class="fas fas fa-angle-double-up fa-lg nav-icons"></i></a>
+		<a href="#bottom" class="page-scroll"><i class="fas fa-angle-double-down fa-lg nav-icons" style="left:90%"></i></a>
+		<div class="progress-bar"></div>
+		<div class="topbar-social">
+			<a <a href="#searchModal" class="btn-floating btn-large waves-effect waves-light modal-trigger topbar-search animated" style="display:none"><i class="fas fa-search icon fa-lg"></i></a>
+		</div>
+	</div>
+</nav>
+
+<!-- Modal Structure -->
+<div id="searchModal" class="modal">
+	<div class="modal-content">
+		<div class="container-fluid">
+			<div class="row">
+		    <form class="col s12" action="/shows/search/">
+		      <div class="row">
+		        <div class="input-field col s12">
+		          <input id="mobileSearch" type="text" class="validate" type="search" aria-label="Search" name="q" required>
+		          <label for="mobileSearch">Search</label>
+		        </div>
+		      </div>
+					<input type="submit" value="Submit" class="btn">
+		    </form>
+		  </div>
+		</div>
+	</div>
+</div>
+
+<script>var home = false;</script>
+		<!--NAV End-->
+
+		<!--START Content and Loader-->
+		<div class="loading container text-center">
+			<img src="//static.libsyn.com/p/assets/platform/directory/svg-icons/loading_ring.svg" alt="loader from loading.io"/>
+		</div>
+		<main style="opacity: 0">
+			
+	<style>
+		.episode-description strong, .episode-description b{
+		font-weight: bold;
+	}
+	.card.center ,#main-card{
+		background: #46a2d4 !important;
+		color: #ffffff !important;
+	}
+
+	#show-more-episodes {
+		background: #226b92 !important;
+	}
+
+	.card-panel {
+		background: #46a2d4  !important;
+		color: #ffffff  !important;
+	}
+
+	.card-panel a{
+		color: #ffffff !important;
+	}
+	.summary a, .fa-search, #more-episodes-section span.title, .video-summary a{
+		color: #226b92  !important;
+	}
+	#more-episodes-section p, .show-episode-description{
+		color: #2c89bb;
+	}
+	#more-episodes-section .collection a.collection-item:not(.active):hover{
+		color: #46a2d4 !important;
+		background: WhiteSmoke;
+	}
+
+	/*Custom Scrollbar*/
+	::-webkit-scrollbar-thumb {
+		background: #2c89bb ;
+	}
+
+	::-webkit-scrollbar-thumb:hover {
+		background: #226b92;
+	}
+	.progress-container{
+		background: #46a2d4 !important;
+	}
+	.progress-bar{
+		background: #226b92 !important;
+	}
+	/*SVG Loader Color*/
+	#bar-loader #rect-1{fill: #226b92;}
+	#bar-loader #rect-2{fill: #2c89bb;}
+	#bar-loader #rect-3{fill: #46a2d4;}
+	</style>
+	<div class="container" id='episode-page' data-slug="tylertysdal" data-show-id="264332" data-show="Tyler Tysdal's Videos and Podcasts">
+
+		<div class="row">
+									<div class="col s12 m4">
+				<div class="card center">
+					<a href="/shows/view/id/tylertysdal"><img src="https://assets.libsyn.com/secure/content/73218557?width=400" class="responsive-img" style="padding:1.2rem;background:transparent;" /></a>
+				</div>
+				<div class="summary">
+					<p class="show-titles" style="font-weight: bold;">
+						How to Build Your Business into A Machine Vs. A Job - Crypto Part 1					</p>
+					<p class="show-titles">
+						<a href="/shows/view/id/tylertysdal">
+							Tyler Tysdal's Videos and Podcasts						</a>
+					</p>
+					<p class="right-align release" style="font-size: .7rem;">Release Date:
+						01/07/2021					</p>
+				</div>
+			</div>
+									<div class="col s12 m8">
+				<div class="card">
+					<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/14469752/height/84/theme/custom/thumbnail/no/direction/backward/render-playlist/no/custom-color/226b92/" height="84" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>					<div id="more-episodes-section">
+						<div class="collection">
+															<a class="collection-item avatar" href="14436776">
+									<img src="http://assets.libsyn.com/content/72987419?height=50&width=50" alt="How Business Brokers Differ from Investment Bankers show art" class="square">
+									<span class="title episode-title">How Business Brokers Differ from Investment Bankers</span>
+									<p class="show-title">Tyler Tysdal's Videos and Podcasts</p>
+									<p class="episode-body">Robert Hirsch talks about how business brokers are different from investment bankers. Ty Tysdal and Robert Hirsch founded Freedom Factory, a business brokerage in Denver. </p>
+									<i class="material-icons show-episode-description">info_outline</i>
+								</a>
+															<a class="collection-item avatar" href="14437040">
+									<img src="http://assets.libsyn.com/content/72988805?height=50&width=50" alt="How to Leverage Other Peoples' Money to Buy a Business show art" class="square">
+									<span class="title episode-title">How to Leverage Other Peoples' Money to Buy a Business</span>
+									<p class="show-title">Tyler Tysdal's Videos and Podcasts</p>
+									<p class="episode-body">Robert Hirsch discusses how to leverage other peoples' money for buying a business. Tyler Tysdal and Robert Hirsch founded Freedom Factory, a business brokerage in Denver. Go here for more podcasts https://directory.libsyn.com/shows/view/id/tylertysdal</p>
+									<i class="material-icons show-episode-description">info_outline</i>
+								</a>
+															<a class="collection-item avatar" href="14437139">
+									<img src="http://assets.libsyn.com/content/72989078?height=50&width=50" alt="The Biggest Reason Deals Don't Close When Selling Your Business show art" class="square">
+									<span class="title episode-title">The Biggest Reason Deals Don't Close When Selling Your Business</span>
+									<p class="show-title">Tyler Tysdal's Videos and Podcasts</p>
+									<p class="episode-body">Robert Hirsch discusses the big Reasons deals don't close. Tyler Tysdal and Robert Hirsch are founded Freedom Factory, a business brokerage in Denver. </p>
+									<i class="material-icons show-episode-description">info_outline</i>
+								</a>
+															<a class="collection-item avatar" href="14437172">
+									<img src="http://assets.libsyn.com/content/72989357?height=50&width=50" alt="Different Types of Contracts You Can Use to Sell Your Business show art" class="square">
+									<span class="title episode-title">Different Types of Contracts You Can Use to Sell Your Business</span>
+									<p class="show-title">Tyler Tysdal's Videos and Podcasts</p>
+									<p class="episode-body">Robert Hirsch talks about what contract structure should you use to sell your business. Tyler Tysdal and Robert Hirsch founded Freedom Factory, a business brokerage in Denver. Check out more podcasts or visit their website here https://freedomfactory.com/about-tyler-tysdal/</p>
+									<i class="material-icons show-episode-description">info_outline</i>
+								</a>
+															<a class="collection-item avatar" href="14436317">
+									<img src="http://assets.libsyn.com/content/72984803?height=50&width=50" alt="Avoid The Single Biggest Mistake When Selling Your Business show art" class="square">
+									<span class="title episode-title">Avoid The Single Biggest Mistake When Selling Your Business</span>
+									<p class="show-title">Tyler Tysdal's Videos and Podcasts</p>
+									<p class="episode-body">Robert Hirsch talks about the single biggest mistake that can happen when selling your business, and why it is so important to avoid this. Tyler Tysdal and Robert Hirsch are founded Freedom Factory, a business brokerage in Denver. Go here for more podcasts https://directory.libsyn.com/shows/view/id/tylertysdal</p>
+									<i class="material-icons show-episode-description">info_outline</i>
+								</a>
+															<a class="collection-item avatar" href="14436956">
+									<img src="http://assets.libsyn.com/content/72988367?height=50&width=50" alt="Should You Grow A Business or Buy A Business show art" class="square">
+									<span class="title episode-title">Should You Grow A Business or Buy A Business</span>
+									<p class="show-title">Tyler Tysdal's Videos and Podcasts</p>
+									<p class="episode-body">Robert Hirsch talks about to grow a business or buy a business. Tyler Tysdal and Robert Hirsch are founded Freedom Factory, a business brokerage in Denver. Go here for more podcasts https://directory.libsyn.com/shows/view/id/tylertysdal</p>
+									<i class="material-icons show-episode-description">info_outline</i>
+								</a>
+															<a class="collection-item avatar" href="14437211">
+									<img src="http://assets.libsyn.com/content/72989501?height=50&width=50" alt="When Is the Right Time to Sell Your Business show art" class="square">
+									<span class="title episode-title">When Is the Right Time to Sell Your Business</span>
+									<p class="show-title">Tyler Tysdal's Videos and Podcasts</p>
+									<p class="episode-body">Robert Hirsch discusses when is the right time to sell my business. Tyler Tysdal and Robert Hirsch are founded Freedom Factory, a business brokerage in Denver. Go here for more podcasts https://directory.libsyn.com/shows/view/id/tylertysdal</p>
+									<i class="material-icons show-episode-description">info_outline</i>
+								</a>
+															<a class="collection-item avatar" href="14437247">
+									<img src="http://assets.libsyn.com/content/72989702?height=50&width=50" alt="Tyler Tysdal And Robert Hirsch - What is Entrepreneurial Freedom? show art" class="square">
+									<span class="title episode-title">Tyler Tysdal And Robert Hirsch - What is Entrepreneurial Freedom?</span>
+									<p class="show-title">Tyler Tysdal's Videos and Podcasts</p>
+									<p class="episode-body">Robert Hirsch discussed what is entrepreneurial freedom. Tyler Tysdal and Robert Hirsch are founded Freedom Factory, a business brokerage in Denver. Go here for more podcasts https://directory.libsyn.com/shows/view/id/tylertysdal</p>
+									<i class="material-icons show-episode-description">info_outline</i>
+								</a>
+															<a class="collection-item avatar" href="14437265">
+									<img src="http://assets.libsyn.com/content/72989837?height=50&width=50" alt="Tyler Tysdal And Robert Hirsch - Secret to Selling Your Business for Max Value show art" class="square">
+									<span class="title episode-title">Tyler Tysdal And Robert Hirsch - Secret to Selling Your Business for Max Value</span>
+									<p class="show-title">Tyler Tysdal's Videos and Podcasts</p>
+									<p class="episode-body">Robert Hirsch talks about what are the secrets of selling your business for maximum value. Tyler Tysdal and Robert Hirsch are founded Freedom Factory, a business brokerage in Denver. Go here for more podcasts https://directory.libsyn.com/shows/view/id/tylertysdal</p>
+									<i class="material-icons show-episode-description">info_outline</i>
+								</a>
+															<a class="collection-item avatar" href="14437310">
+									<img src="http://assets.libsyn.com/content/72990008?height=50&width=50" alt="The Process to Sell Your Business Quickly show art" class="square">
+									<span class="title episode-title">The Process to Sell Your Business Quickly</span>
+									<p class="show-title">Tyler Tysdal's Videos and Podcasts</p>
+									<p class="episode-body">Robert Hirsch discusses the best process to sell your business quickly. Tyler Tysdal and Robert Hirsch are founded Freedom Factory, a business brokerage in Denver. Go here for more podcasts https://directory.libsyn.com/shows/view/id/tylertysdal</p>
+									<i class="material-icons show-episode-description">info_outline</i>
+								</a>
+														<div id="episode-endpoint" class="collection-item">&nbsp;</div>
+						</div>
+					</div>
+				</div>
+				<a class="btn center-block" id="show-more-episodes" style="display:block!important;">More Episodes</a>
+			</div>
+						<div class="col s12 m8" id="info-panel">
+				<div class="card-panel">
+					<div class="episode-description">
+						<h2>Freedom Factory Explains the Importance of Diversification With Cryptocurrency</h2> <p><iframe title="freedomfactory-crypto-part1" src= "https://player.vimeo.com/video/389990028" width="640" height= "360"></iframe></p> <h3>Watch Part 2 Here:</h3> <p><a href= "https://directory.libsyn.com/episode/index/id/14482061">https://directory.libsyn.com/episode/index/id/14482061</a></p> <h3>Contact Freedom Factory</h3> <p>Freedom Factory<br /> 5500 Greenwood Plaza Blvd., Ste 230<br /> Greenwood Village, CO 80111<br /> Phone: 844-MAX-VALUE (844-629-8258)<br /> <a href= "https://www.freedomfactory.com/">https://www.freedomfactory.com/</a><br />  <a href="https://g.page/freedom-factory-denver">Freedom Factory</a></p> <h3><em>Freedom Factory Managing Partners</em></h3> <h4>Tyler Tysdal</h4> <p><a href="https://www.linkedin.com/in/tyler-tysdal">Tyler Tysdal, Managing Director, Freedom Factory</a></p> <h4>Robert Hirsch</h4> <p>Entrepreneur, Investor, Speaker, Artist</p> <p><a href="https://roberthirsch.com/">Visit His Website</a></p> <p><iframe title="Freedom-Factory" src= "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3073.496687996668!2d-104.90087878462823!3d39.616019079466234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876c87c5a2bdce1b%3A0x79e43f931f67c650!2sFreedom%20Factory!5e0!3m2!1sen!2sus!4v1589495136953!5m2!1sen!2sus" width="600" height="450"></iframe></p> <h2>Recent News</h2> <p><strong>Tyler Tysdal Diversification in the Business</strong></p> <p><img style="float: right;" src= "https://businessdeccan.com/wp-content/uploads/2020/04/Tyler-Tysdal-1-750x422.jpg" alt="Tyler Tysdal" width="200" height="113" /><a title= "Tyler Tysdal" href="https://soundcloud.com/tylertysdal">Tyler Tysdal</a>, a seasoned investor and entrepreneur, has laid emphasis on the importance of diversification in the business world. He has shared that diversification does not just help to&nbsp;limit the risks involved in any business&nbsp;but it also allows a business to make a big profit in the long-term.&nbsp;<a title="Tyler Tysdal" href="https://vimeopro.com/freedomfactory/tyler-tysdal">Tyler Tysdal</a> and his partner, Robert Hirsch is providing great knowledge to entrepreneurs on making an effective investment through the platform, Freedom Factory.</p> <p>The seasoned investor has highlighted the importance of diversification in the success of any business. Read more here:<br /> <a href= "https://businessdeccan.com/tyler-tysdal-throws-light-on-the-importance-of-diversification-in-the-business-world/"> https://businessdeccan.com/tyler-tysdal-throws-light-on-the-importance-of-diversification-in-the-business-world/</a></p> <p><strong>Knowing the Difference Between Business Brokers and Investment Bankers</strong></p> <p><img style="float: right;" src= "https://www.enews20.com/wp-content/uploads/2020/05/How-are-Brokers-Different-from-Investment-Bankers.jpg" alt="Tyler Tysdal" width="200" height="113" />Brokers and investment bankers are two words commonly used in the business world. They are very much alike but function differently. Business brokers sell businesses to entrepreneurs, private equity firms, small private equity firms, venture capitals, and little roll-ups. These people focus on helping business owners get the maximum selling value of their business.</p> <p>On the other hand, investment bankers are people with a background in investment banking. They do not help small scale businesses. Their focus is on large deals, typically values a hundred million dollars. They are a part of financial institutions that focus on raising capital for big corporations and government entities. Read more here: <a href= "https://www.enews20.com/knowing-the-difference-between-business-brokers-and-investment-bankers/"> https://www.enews20.com/knowing-the-difference-between-business-brokers-and-investment-bankers/</a></p> <p>&nbsp;</p> <h4>Additional Resources:</h4> <p>Listen to more podcasts here: <a href= "https://podcasts.apple.com/us/podcast/tyler-tysdals-videos-and-podcasts/id1513796849"> https://podcasts.apple.com/us/podcast/tyler-tysdals-videos-and-podcasts/id1513796849</a><br />  Follow <a title="Tyler Tysdal facebook" href= "https://www.facebook.com/Tyler-T-Tysdal-101477371835111">Tyler Tysdal</a> on Twitter: <a href= "https://twitter.com/tysdaltyler">https://twitter.com/tysdaltyler</a></p> <h3>Watch this introduction to <a href= "https://tylertysdal.blob.core.windows.net/tylertysdal/index.html">Tyler Tysdal</a></h3> <p><iframe title="robert hirsch introduces tyler tysdal in video" src="https://player.vimeo.com/video/445058690" width="640" height= "360"></iframe></p> <p><br /> <br /> <img src= "https://tricitydaily.com/wp-content/uploads/2020/03/tyler-tysdal-and-natalie-tysdal.jpg" alt="Tyler Tysdal with Natalie Tysdal" width="531" height= "545" /></p> <p><a title= "Tyler Tysdal - Managing Partner @ Freedom Factory - Crunchbase Person Profile" href= "https://www.crunchbase.com/person/tyler-tysdal">https://www.crunchbase.com/person/tyler-tysdal</a></p> <p><strong>Additional Resources:</strong></p> <p><strong>Cryptocurrency Videos:</strong> <a title= "cryptocurrencies academy videos" href= "https://cryptocurrencies.academy/">https://cryptocurrencies.academy/</a><br />  <br /> <a href="https://www.investopedia.com/terms/b/blockchain.asp">What is Blockchain?</a></p> 					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row col sm12 m8">
+			<div id="fb-root"></div>
+			 <!-- facebook comment -->
+			<div id="comments" style="height:100%" class="fb-comments" data-href="https://tylertysdal.org/how-to-build-my-business-into-a-machine-vs-a-job-crypto-part-1" data-width="100%" data-numposts="5" data-mobile="true"></div>
+		</div>
+	</div>
+
+	<script>
+
+	//Displays bulletpoints
+	$('.episode-description ul').addClass('browser-default');
+
+	//required for the customized Loading SVG
+	var loadingSvg = '<svg id="bar-loader" width="100px"  height="100px"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="lds-facebook" style="background: none;"><rect id="rect-1" ng-attr-x="{{config.x1}}" ng-attr-y="{{config.y}}" ng-attr-width="{{config.width}}" ng-attr-height="{{config.height}}" ng-attr-fill="{{config.c1}}" x="17.5" y="30" width="15" height="40" fill="#e1ffb1"><animate attributeName="y" calcMode="spline" values="18;30;30" keyTimes="0;0.5;1" dur="1" keySplines="0 0.5 0.5 1;0 0.5 0.5 1" begin="-0.2s" repeatCount="indefinite"></animate><animate attributeName="height" calcMode="spline" values="64;40;40" keyTimes="0;0.5;1" dur="1" keySplines="0 0.5 0.5 1;0 0.5 0.5 1" begin="-0.2s" repeatCount="indefinite"></animate></rect><rect id="rect-2" ng-attr-x="{{config.x2}}" ng-attr-y="{{config.y}}" ng-attr-width="{{config.width}}" ng-attr-height="{{config.height}}" ng-attr-fill="{{config.c2}}" x="42.5" y="30" width="15" height="40" fill="#aed581"><animate attributeName="y" calcMode="spline" values="20.999999999999996;30;30" keyTimes="0;0.5;1" dur="1" keySplines="0 0.5 0.5 1;0 0.5 0.5 1" begin="-0.1s" repeatCount="indefinite"></animate><animate attributeName="height" calcMode="spline" values="58.00000000000001;40;40" keyTimes="0;0.5;1" dur="1" keySplines="0 0.5 0.5 1;0 0.5 0.5 1" begin="-0.1s" repeatCount="indefinite"></animate></rect><rect id="rect-3" ng-attr-x="{{config.x3}}" ng-attr-y="{{config.y}}" ng-attr-width="{{config.width}}" ng-attr-height="{{config.height}}" ng-attr-fill="{{config.c3}}" x="67.5" y="30" width="15" height="40" fill="#7da453"><animate attributeName="y" calcMode="spline" values="24;30;30" keyTimes="0;0.5;1" dur="1" keySplines="0 0.5 0.5 1;0 0.5 0.5 1" begin="0s" repeatCount="indefinite"></animate><animate attributeName="height" calcMode="spline" values="52;40;40" keyTimes="0;0.5;1" dur="1" keySplines="0 0.5 0.5 1;0 0.5 0.5 1" begin="0s" repeatCount="indefinite"></animate></rect></svg>';
+	var episodeCount = $('#more-episodes-section .collection-item').length;
+	var fetchLimit = 30;
+	var showSlug = $('#episode-page').data('slug');
+	var showId = $('#episode-page').data('show-id');
+	var showTitle = $('#episode-page').data('show');
+	var endPoint = $('#episode-endpoint');
+	var count = 0;
+	var load = true;
+	var downArrowLocation = 0;
+	var episodeEnd = false;
+
+	//Toggles the more episodes section when clicked
+	$('#show-more-episodes').on('click', function() {
+		$('#more-episodes-section').toggleClass('active');
+		setTimeout(function() {
+			$('#info-panel').toggleClass('m12');
+		}, 400);
+	});
+
+	//Shows episode description by toggling the active class
+	//Prevents from going the the href of the episode
+	$('main').on('click', '.show-episode-description', function(e) {
+		e.preventDefault();
+		$('.collection-item').not(this).removeClass('active');
+		$(this).parent().toggleClass('active');
+	});
+
+	$('#more-episodes-section').scroll(function(){
+		if( elementScrolled( $('.collection-item.avatar:last') ) && load === true && episodeEnd === false) {
+			var currentHeight = $('#more-episodes-section')[0].scrollHeight;
+			$.ajax({
+				url: "/shows/show-more",
+				beforeSend: function(xhr){
+					load = false;
+					endPoint.html(loadingSvg);
+				},
+				dataType: "json",
+				data: {
+					"start-point": episodeCount,
+					"fetch-limit" : fetchLimit,
+					"id" : showId,
+				},
+				success: function( data ){
+					const episodes = data.results;
+	        const episodeArray = Object.keys(episodes).map(i => episodes[i]);
+
+					if( episodes.length == 0 ){
+						episodeEnd = true;
+						endPoint.html("<img src='//static.libsyn.com/p/assets/platform/directory/libsyn-rss-logo.png' alt='Libsyn Logo End' class='responsive-img'/><p>No more episodes</p>");
+					}
+					else{
+						// episodeArray needs to be reverse to display correctly
+	          episodeArray.reverse();
+	          episodeArray.forEach(function(episode){
+	            addEpisode(episode);
+	          });
+						episodeCount += fetchLimit;
+
+						//Gets a slight break in between loading episodes if a user if constantly scrolling down.
+						$('#more-episodes-section').animate( {
+								scrollTop: currentHeight - 200,
+							}, 1500);
+						//Sets timeout to match the scrolling to ensure a new AJAX call cannot be executed
+						setTimeout(function(){load = true}, 2000);
+					}
+				},
+				error: function( xhr, textStatus, errorThrown){
+					// jquery throws error
+					endPoint.html("An error has occurred while while fetching new episodes. Reload the page to try again.");
+				},
+			});
+		}
+	});
+		// This is then function used to detect if the element is scrolled into view
+		function elementScrolled(elem){
+			var docViewTop = $('#more-episodes-section').scrollTop();
+			var docViewBottom = docViewTop + $('#more-episodes-section').height();
+			var elemTop = $(elem).position().top;
+			return ( (elemTop <= docViewBottom) && (elemTop >= docViewTop) );
+		}
+		//Adds episode with all the relevant HTML needed to create an Episode collection item from the AJAX call
+		function addEpisode(data){
+		  var release = new Date(data['release']);
+		  var title = data['title'];
+		  var image = data['image']+"?height=50&width=50";
+		  var description = data['description'];
+		  var episodeId = data['episodeId']
+		  var releaseDate = release.toLocaleDateString("en-US");
+		  var episodeLink = "/episode/index/show/"+showSlug+"/id/"+episodeId;
+		  var episodeCollectionItem = contructEpisode();
+
+		  addEpisodeToPage();
+
+		  //Contruct the episode
+		  function contructEpisode(){
+				var collectionItem = '<a class="collection-item avatar" href="'+episodeId+'"><img src="'+image+'" alt="" class="square"><span class="title episode-title">'+title+'</span><p class="show-title">'+showTitle+'</p><p class="episode-body">'+description+'</p><i class="material-icons show-episode-description">info_outline</i></a>'
+
+		    return collectionItem;
+		  }
+
+		  //Adds episode to the page where the endPoint is specified
+		  function addEpisodeToPage(){
+		    endPoint.before(episodeCollectionItem);
+		  }
+		}
+
+			(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s);
+			js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=834757889913083";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	
+		</script>
+		</main>
+		<!--END Content-->
+		<footer id="bottom">
+			<p class="footer-text center">Libsyn Directory - <i class="far fa-copyright"></i> <a href="https://www.libsyn.com" target="_blank">Liberated Syndication</a></p>
+			<div class="topbar-social">
+				<a href="https://www.facebook.com/libsyn" class="btn-floating btn-large waves-effect waves-light" target="_blank"><i class="fab fa-facebook-square icon fa-lg"></i></a>
+				<a href="https://www.instagram.com/libsyn/" class="btn-floating btn-large waves-effect waves-light" target="_blank"><i class="fab fa-instagram icon fa-lg"></i></a>
+				<a href="https://twitter.com/libsyn" class="btn-floating btn-large waves-effect waves-light" target="_blank"><i class="fab fa-twitter icon fa-lg"></i></a>
+			</div>
+		</footer>
+
+		<!--Category Modal START-->
+		<ul id="catNav" class="sidenav">
+			<li><h4 class="center-align">TOPICS</h4></li>
+					<li class="right-align">
+			<a href="/categories/inspect/id/1">
+				<span>Arts</span>
+				<i class="fa-inverse fas fa-paint-brush fa-2x"></i>
+			</a>
+		</li>
+		<li class="right-align">
+			<a href="/categories/inspect/id/8">
+				<span>Business</span>
+				<i class="fa-inverse fas fa-briefcase fa-2x"></i>
+			</a>
+		</li>
+		<li class="right-align">
+			<a href="/categories/inspect/id/14">
+				<span>Comedy</span>
+				<i class="fa-inverse fas fa-laugh fa-2x"></i>
+			</a>
+		</li>
+		<li class="right-align">
+			<a href="/categories/inspect/id/15">
+				<span>Education</span>
+				<i class="fa-inverse fas fa-graduation-cap fa-2x"></i>
+			</a>
+		</li>
+		<li class="right-align">
+			<a href="/categories/inspect/id/32">
+				<span>Health & Fitness</span>
+				<i class="fa-inverse fas fa-stethoscope fa-2x"></i>
+			</a>
+		</li>
+		<li class="right-align">
+			<a href="/categories/inspect/id/37">
+				<span>Kids & Family</span>
+				<i class="fa-inverse fas fa-child fa-2x"></i>
+			</a>
+		</li>
+		<li class="right-align">
+			<a href="/categories/inspect/id/38">
+				<span>Music</span>
+				<i class="fa-inverse fas fa-headphones fa-2x"></i>
+			</a>
+		</li>
+		<li class="right-align">
+			<a href="/categories/inspect/id/40">
+				<span>Religion & Spirituality</span>
+				<i class="fa-inverse fas fa-praying-hands fa-2x"></i>
+			</a>
+		</li>
+		<li class="right-align">
+			<a href="/categories/inspect/id/52">
+				<span>Society & Culture</span>
+				<i class="fa-inverse fas fa-globe fa-2x"></i>
+			</a>
+		</li>
+		<li class="right-align">
+			<a href="/categories/inspect/id/53">
+				<span>History</span>
+				<i class="fa-inverse fas fa-landmark fa-2x"></i>
+			</a>
+		</li>
+		<li class="right-align">
+			<a href="/categories/inspect/id/62">
+				<span>Technology</span>
+				<i class="fa-inverse fas fa-microchip fa-2x"></i>
+			</a>
+		</li>
+		<li class="right-align">
+			<a href="/categories/inspect/id/67">
+				<span>TV & Film</span>
+				<i class="fa-inverse fas fa-film fa-2x"></i>
+			</a>
+		</li>
+		<li class="right-align">
+			<a href="/categories/inspect/id/68">
+				<span>Fiction</span>
+				<i class="fa-inverse fas fa-hat-wizard fa-2x"></i>
+			</a>
+		</li>
+		<li class="right-align">
+			<a href="/categories/inspect/id/80">
+				<span>True Crime</span>
+				<i class="fa-inverse fas fa-gavel fa-2x"></i>
+			</a>
+		</li>
+		<li class="right-align">
+			<a href="/categories/inspect/id/116">
+				<span>Government</span>
+				<i class="fa-inverse fas fa-monument fa-2x"></i>
+			</a>
+		</li>
+		<li class="right-align">
+			<a href="/categories/inspect/id/140">
+				<span>Leisure</span>
+				<i class="fa-inverse fas fa-umbrella-beach fa-2x"></i>
+			</a>
+		</li>
+		<li class="right-align">
+			<a href="/categories/inspect/id/164">
+				<span>News</span>
+				<i class="fa-inverse fas fa-newspaper fa-2x"></i>
+			</a>
+		</li>
+		<li class="right-align">
+			<a href="/categories/inspect/id/185">
+				<span>Science</span>
+				<i class="fa-inverse fas fa-flask fa-2x"></i>
+			</a>
+		</li>
+		<li class="right-align">
+			<a href="/categories/inspect/id/215">
+				<span>Sports</span>
+				<i class="fa-inverse fas fa-football-ball fa-2x"></i>
+			</a>
+		</li>
+		</ul>
+		<!--Category Modal END-->
+
+		<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+		<script src="/js/main.js?v=4c656542656e6e657474"></script>
+		<!--Page specific JS-->
+			</body>
+
+	</html>
+=============================================================
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/nvrVuXFGuqM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/14469752/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe sandbox="allow-same-origin allow-scripts allow-top-navigation allow-popups allow-forms" scrolling=no width="100%" height="120" frameborder="0" src="https://embed.radiopublic.com/e?if=tyler-tysdals-videos-and-podcasts-GZXLrE&ge=s1!da0fbe2e364e566e4e52e6a9b8696915618cc0d2"></iframe>
+<iframe src="https://www.listennotes.com/embedded/e/38889f2a35a04126878dd722f95ea575/" height="110px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
+<iframe src="https://audiomack.com/embed/song/tylertysdal-1/how-to-build-your-business-into-a-machine-vs-a-job-crypto-part-1?background=1" scrolling="no" width="100%" height="120" scrollbars="no" frameborder="0"></iframe>
+<iframe title="How to Build Your Business into A Machine Vs. A Job - Crypto Part 1" src="https://www.podbean.com/media/player/c5i3e-cace72c-dir?from=share&skin=1&share=1&fonts=Helvetica&download=1&version=1&skin=3&btn-skin=101" height="122" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player"></iframe>
+<iframe width="100%" height="120" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/964864285&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe title="Embed Player" width="100%" height="120px" src="https://embed.acast.com/9ef72460-7986-5aed-bf65-00cc6d5ba97c/9bc1c0a8-5275-4390-a894-2b4e8ee246b0" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>
+<iframe height="120px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/2e8f2bab-f629-454c-9331-ebc85d85740d?dark=false"></iframe>
+<iframe src="https://castbox.fm/app/castbox/player/id2875961/id342945346?v=8.22.11&autoplay=0" frameborder="0" width="100%" height="180"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/5nbiev5oOrSKWLxRA6PhI7" width="100%" height="120" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:860px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/how-to-build-your-business-into-machine-vs-job-crypto/id1513796849?i=1000504639275"></iframe>
+<iframe style="border: solid 1px #e4edf2;" src="https://www.stitcher.com/embed/533898/80659117" width="820" height="125" frameborder="0" scrolling="no" /></iframe>
+<iframe height="120" width="885" src="https://www.himalaya.com/en/player-embed/2068615/127466402" frameborder=0 allowfullscreen></iframe>
+<iframe src="https://tunein.com/embed/player/t159911501/" style="width:100%; height:120px;" scrolling="no" frameborder="no"></iframe>
+<iframe width="100%" height="120" scrolling="no" frameborder="no" src="https://www.reverbnation.com/widget_code/html_widget/artist_6824873?widget_id=55&pwc[song_ids]=32530366&context_type=song&spoid=artist_6824873&pwc[size]=small" style="width:0px;min-width:100%;max-width:100%;"></iframe>
+<iframe src="https://anchor.fm/tylertysdal/embed/episodes/How-to-Build-Your-Business-into-A-Machine-Vs--A-Job---Crypto-Part-1-essgq7/a-a4vj2kd" height="120px" width="820px" frameborder="0" scrolling="no"></iframe>
+<iframe title="deezer-widget" src="https://widget.deezer.com/widget/light/episode/285823622" width="100%" height="120" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<center><blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/tv/CJwbpyKnYqz/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/tv/CJwbpyKnYqz/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/tv/CJwbpyKnYqz/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Tyler Tysdal (@tyler_tysdal)</a></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script></center>
+<center><iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftylertysdalbusinessbroker%2Fvideos%2F465248514871289%2F&show_text=false&width=640" width="640" height="362" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe></center>
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6146.993383050306!2d-104.89869!3d39.616019!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x79e43f931f67c650!2sFreedom%20Factory!5e0!3m2!1sen!2sus!4v1616671369983!5m2!1sen!2sus" width="600" height="330" style="border:0;" allowfullscreen="" loading="lazy"></iframe></center>
